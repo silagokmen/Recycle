@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5f1798409600e426eb9831b8b4d9d573
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cam: {instanceID: 0}
+  - "kag\u0131t": {fileID: 8300000, guid: 07b8416d9081746d381870113520d092, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
